@@ -1,0 +1,25 @@
+.readmore_img {
+    height: 371px  ;
+    position: absolute;
+    top: 168px;
+    width: 300px;
+}
+
+@media (max-width: 550px) {
+ .readmore_img{
+     position: absolute;
+     height: 140px;
+     width: 140px;
+     top: 232px;
+     left: 173px;
+ }   
+}
+
+.fade_back{
+    height: 370px;
+    background: linear-gradient(0.25turn, #4e5c63, #747970, #9c8c7b);
+
+}
+.fade_back_img{
+
+}
